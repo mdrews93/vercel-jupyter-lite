@@ -1,0 +1,5 @@
+{
+    "ServerApp": {
+        "password_required": True
+    }
+}
